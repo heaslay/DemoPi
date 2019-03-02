@@ -7,3 +7,4 @@ if num > 1:
             break
     else:
          print ("This is a prime number")
+#End of the program
